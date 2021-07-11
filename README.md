@@ -29,7 +29,7 @@ The default use is to load the trained models and test the algorithms in environ
 
 If you want to train a model by yourself, you can add ```--train```.
 
-The results can be find in the report [](https://github.com/innovator-zero/CS489_RL_Project/blob/main/Report.pdf)
+The results can be find in the report [](./Report.pdf)
 
 ## Code Reference
 
