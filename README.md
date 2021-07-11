@@ -1,6 +1,10 @@
-# Introduction
+# CS489_RL_Project
 
-This project contains three algorithms, DQN, PPO, and SAC.
+**SJTU 2021Spring CS489 强化学习 Reinforcement Learning**
+
+## Introduction
+
+This project contains three algorithms, **DQN**, **PPO**, and **SAC**.
 
 For DQN, supported Atari environments:
 
@@ -13,7 +17,7 @@ For PPO and SAC, supported MuJoCo environments:
 - Hopper-v2
 - HalfCheetah-v2
 
-# Usage
+## Usage
 
 You can run ```run.py``` like 
 
@@ -25,3 +29,14 @@ The default use is to load the trained models and test the algorithms in environ
 
 If you want to train a model by yourself, you can add ```--train```.
 
+The results can be find in the report[](https://github.com/innovator-zero/CS489_RL_Project/blob/main/Report.pdf)
+
+## Code Reference
+
+https://github.com/jmichaux/dqn-pytorch
+
+https://github.com/reinforcement-learning-kr/pg
+
+https://github.com/pranz24/pytorch-soft-actor-critic
+
+https://github.com/openai/baselines
